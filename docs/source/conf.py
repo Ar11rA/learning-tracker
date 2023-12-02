@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Learning Tracker'
+copyright = '2021, Ar11rA'
+author = 'Ar11rA'
 
 release = '0.1'
 version = '0.1.0'
